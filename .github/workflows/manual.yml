@@ -15,9 +15,9 @@ jobs:
         with:
           python-version: '3.x'
           architecture: 'x64'
-      - run: sudo apt update
-      - run: sudo apt install ffmpeg
       - uses: LeGitHubDeTai/mp4TOgif@main
         env:
          inMP4: './video.mp4'
          outGIF: './out.gif'
+      - run: sudo apt update
+      - run: sudo apt install ffmpeg
