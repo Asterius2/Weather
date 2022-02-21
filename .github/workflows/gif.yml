@@ -6,7 +6,7 @@ jobs:
   sending:
     runs-on: ubuntu-latest
     steps:
-    - name: Make a Gif
+      - name: Make a Gif
       - uses: actions/checkout@main
       - uses: actions/setup-node@v2
         with:
@@ -17,7 +17,7 @@ jobs:
           architecture: 'x64'
       - run: sudo apt update
       - run: sudo apt install ffmpeg
-      uses: LeGitHubDeTai/mp4TOgif@main
-      env:
-        inMP4: './video.mp4'
-        outGIF: './out.gif'
+      - uses: LeGitHubDeTai/mp4TOgif@main
+        env:
+         inMP4: './video.mp4'
+         outGIF: './out.gif'
