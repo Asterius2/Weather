@@ -4,9 +4,9 @@ on: push
 
 jobs:
   sending:
+    name: Make a Gif
     runs-on: ubuntu-latest
     steps:
-      - name: Make a Gif
       - uses: actions/checkout@main
       - uses: actions/setup-node@v2
         with:
