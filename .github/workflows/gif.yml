@@ -21,3 +21,13 @@ jobs:
         env:
          inMP4: './video.mp4'
          outGIF: './out.gif'
+      - name: Commit files
+        run: |
+          git config --local user.email "Asterius1@outlook.fr"
+          git config --local user.name "Asterius"
+          git commit -m "🤖 Make a GIF" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
