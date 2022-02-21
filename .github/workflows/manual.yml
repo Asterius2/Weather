@@ -13,5 +13,5 @@ jobs:
           node-version: '16'
       - uses: LeGitHubDeTai/mp4TOgif@main
         env:
-         inMP4: './video.mp4'
+         inMP4: './assets/meteo/meteo_1920x1080.mp4'
          outGIF: './out.gif'
