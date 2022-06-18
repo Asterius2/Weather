@@ -1,7 +1,7 @@
 {
   "date": [
-    "Vendredi 17 Juin",
-    "10h56"
+    "Samedi 18 Juin",
+    "10h55"
   ],
   "upload": {
     "discord": {
@@ -22,8 +22,8 @@
     },
     "youtube": {
       "file": "./temp/meteo/meteo_1920x1080.mp4",
-      "title": "[METEO] France/Belgique/Suisse du Vendredi 17 Juin à 10h56",
-      "description": "La météo de la France/Belgique/Suisse du Vendredi 17 Juin à 10h56 Tous les réseaux Asterius ICI: https://lyna.netlify.app/asterius Source: www.prevision-meteo.ch https://tai-studio.netlify.app © Tai Studio 2021/2022 #asterius #meteo #france #belgique #suisse",
+      "title": "[METEO] France/Belgique/Suisse du Samedi 18 Juin à 10h55",
+      "description": "La météo de la France/Belgique/Suisse du Samedi 18 Juin à 10h55 Tous les réseaux Asterius ICI: https://lyna.netlify.app/asterius Source: www.prevision-meteo.ch https://tai-studio.netlify.app © Tai Studio 2021/2022 #asterius #meteo #france #belgique #suisse",
       "minia": "./temp/meteo/meteo.jpg",
       "tags": [
         "Asterius",
@@ -37,26 +37,26 @@
     },
     "tiktok": {
       "file": "./temp/meteo/meteo_1080x1920.mp4",
-      "title": "La météo de la France/Belgique/Suisse/Québec/Réunion du Vendredi 17 Juin à 10h56 Tous les réseaux Asterius ICI: https://lyna.netlify.app/asterius #asterius #meteo",
+      "title": "La météo de la France/Belgique/Suisse/Québec/Réunion du Samedi 18 Juin à 10h55 Tous les réseaux Asterius ICI: https://lyna.netlify.app/asterius #asterius #meteo",
       "description": "La météo de la France/Belgique/Suisse du Samedi 22 Janvier à 19h49 Tous les réseaux Asterius ICI: https://lyna.ga/asterius Source: www.prevision-meteo.ch https://tai-studio.netlify.app © Tai Studio 2021/2022 #meteo #france #belgique #suisse #asterius",
       "minia": "METEO du Samedi 22 Janvier a 19h49"
     },
-    "text_twitter": "La météo de la France/Belgique/Suisse du Vendredi 17 Juin à 10h56 \nTous les réseaux Asterius ICI: https://lyna.netlify.app/asterius \nhttps://tai-studio.netlify.app\n© Tai Studio 2021/2022\n#asterius #meteo #france #belgique #suisse",
-    "text_instagram": "La météo de la France/Belgique/Suisse du Vendredi 17 Juin à 10h56 \nTous les réseaux Asterius ICI: https://lyna.netlify.app/asterius \nhttps://tai-studio.netlify.app\n© Tai Studio 2021/2022\n#asterius #meteo #france #belgique #suisse",
-    "text_discord": "La météo de la France/Belgique/Suisse du Vendredi 17 Juin à 10h56",
+    "text_twitter": "La météo de la France/Belgique/Suisse du Samedi 18 Juin à 10h55 \nTous les réseaux Asterius ICI: https://lyna.netlify.app/asterius \nhttps://tai-studio.netlify.app\n© Tai Studio 2021/2022\n#asterius #meteo #france #belgique #suisse",
+    "text_instagram": "La météo de la France/Belgique/Suisse du Samedi 18 Juin à 10h55 \nTous les réseaux Asterius ICI: https://lyna.netlify.app/asterius \nhttps://tai-studio.netlify.app\n© Tai Studio 2021/2022\n#asterius #meteo #france #belgique #suisse",
+    "text_discord": "La météo de la France/Belgique/Suisse du Samedi 18 Juin à 10h55",
     "type": "meteo"
   },
-  "text": "La météo de la France/Belgique/Suisse du Vendredi 17 Juin à 10h56",
+  "text": "La météo de la France/Belgique/Suisse du Samedi 18 Juin à 10h55",
   "France": {
-    "Sunset": "21:58",
+    "Sunset": "21:59",
     "Sunrise": "05:44"
   },
   "Belgique": {
-    "Sunset": "22:00",
+    "Sunset": "22:01",
     "Sunrise": "05:26"
   },
   "Suisse": {
-    "Sunset": "21:26",
+    "Sunset": "21:27",
     "Sunrise": "05:26"
   }
 }
