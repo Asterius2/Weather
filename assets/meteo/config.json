@@ -1,7 +1,7 @@
 {
   "date": [
-    "Mercredi 20 Juillet",
-    "10h57"
+    "Jeudi 21 Juillet",
+    "10h58"
   ],
   "upload": {
     "discord": {
@@ -22,8 +22,8 @@
     },
     "youtube": {
       "file": "./temp/meteo/meteo_1920x1080.mp4",
-      "title": "[METEO] France/Belgique/Suisse du Mercredi 20 Juillet à 10h57",
-      "description": "La météo de la France/Belgique/Suisse du Mercredi 20 Juillet à 10h57 Tous les réseaux Asterius ICI: https://lyna.netlify.app/asterius Source: www.prevision-meteo.ch https://tai-studio.netlify.app © Tai Studio 2021/2022 #asterius #meteo #france #belgique #suisse",
+      "title": "[METEO] France/Belgique/Suisse du Jeudi 21 Juillet à 10h58",
+      "description": "La météo de la France/Belgique/Suisse du Jeudi 21 Juillet à 10h58 Tous les réseaux Asterius ICI: https://lyna.netlify.app/asterius Source: www.prevision-meteo.ch https://tai-studio.netlify.app © Tai Studio 2021/2022 #asterius #meteo #france #belgique #suisse",
       "minia": "./temp/meteo/meteo.jpg",
       "tags": [
         "Asterius",
@@ -37,26 +37,26 @@
     },
     "tiktok": {
       "file": "./temp/meteo/meteo_1080x1920.mp4",
-      "title": "La météo de la France/Belgique/Suisse/Québec/Réunion du Mercredi 20 Juillet à 10h57 Tous les réseaux Asterius ICI: https://lyna.netlify.app/asterius #asterius #meteo",
+      "title": "La météo de la France/Belgique/Suisse/Québec/Réunion du Jeudi 21 Juillet à 10h58 Tous les réseaux Asterius ICI: https://lyna.netlify.app/asterius #asterius #meteo",
       "description": "La météo de la France/Belgique/Suisse du Samedi 22 Janvier à 19h49 Tous les réseaux Asterius ICI: https://lyna.ga/asterius Source: www.prevision-meteo.ch https://tai-studio.netlify.app © Tai Studio 2021/2022 #meteo #france #belgique #suisse #asterius",
       "minia": "METEO du Samedi 22 Janvier a 19h49"
     },
-    "text_twitter": "La météo de la France/Belgique/Suisse du Mercredi 20 Juillet à 10h57 \nTous les réseaux Asterius ICI: https://lyna.netlify.app/asterius \nhttps://tai-studio.netlify.app\n© Tai Studio 2021/2022\n#asterius #meteo #france #belgique #suisse",
-    "text_instagram": "La météo de la France/Belgique/Suisse du Mercredi 20 Juillet à 10h57 \nTous les réseaux Asterius ICI: https://lyna.netlify.app/asterius \nhttps://tai-studio.netlify.app\n© Tai Studio 2021/2022\n#asterius #meteo #france #belgique #suisse",
-    "text_discord": "La météo de la France/Belgique/Suisse du Mercredi 20 Juillet à 10h57",
+    "text_twitter": "La météo de la France/Belgique/Suisse du Jeudi 21 Juillet à 10h58 \nTous les réseaux Asterius ICI: https://lyna.netlify.app/asterius \nhttps://tai-studio.netlify.app\n© Tai Studio 2021/2022\n#asterius #meteo #france #belgique #suisse",
+    "text_instagram": "La météo de la France/Belgique/Suisse du Jeudi 21 Juillet à 10h58 \nTous les réseaux Asterius ICI: https://lyna.netlify.app/asterius \nhttps://tai-studio.netlify.app\n© Tai Studio 2021/2022\n#asterius #meteo #france #belgique #suisse",
+    "text_discord": "La météo de la France/Belgique/Suisse du Jeudi 21 Juillet à 10h58",
     "type": "meteo"
   },
-  "text": "La météo de la France/Belgique/Suisse du Mercredi 20 Juillet à 10h57",
+  "text": "La météo de la France/Belgique/Suisse du Jeudi 21 Juillet à 10h58",
   "France": {
-    "Sunset": "21:46",
-    "Sunrise": "06:07"
+    "Sunset": "21:45",
+    "Sunrise": "06:08"
   },
   "Belgique": {
-    "Sunset": "21:47",
-    "Sunrise": "05:50"
+    "Sunset": "21:46",
+    "Sunrise": "05:51"
   },
   "Suisse": {
-    "Sunset": "21:16",
-    "Sunrise": "05:48"
+    "Sunset": "21:15",
+    "Sunrise": "05:49"
   }
 }
