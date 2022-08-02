@@ -1,7 +1,7 @@
 {
   "date": [
-    "Lundi 1 Aout",
-    "10h58"
+    "Mardi 2 Aout",
+    "11h00"
   ],
   "upload": {
     "discord": {
@@ -22,8 +22,8 @@
     },
     "youtube": {
       "file": "./temp/meteo/meteo_1920x1080.mp4",
-      "title": "[METEO] France/Belgique/Suisse du Lundi 1 Aout à 10h58",
-      "description": "La météo de la France/Belgique/Suisse du Lundi 1 Aout à 10h58 Tous les réseaux Asterius ICI: https://lyna.netlify.app/asterius Source: www.prevision-meteo.ch https://tai-studio.netlify.app © Tai Studio 2021/2022 #asterius #meteo #france #belgique #suisse",
+      "title": "[METEO] France/Belgique/Suisse du Mardi 2 Aout à 11h00",
+      "description": "La météo de la France/Belgique/Suisse du Mardi 2 Aout à 11h00 Tous les réseaux Asterius ICI: https://lyna.netlify.app/asterius Source: www.prevision-meteo.ch https://tai-studio.netlify.app © Tai Studio 2021/2022 #asterius #meteo #france #belgique #suisse",
       "minia": "./temp/meteo/meteo.jpg",
       "tags": [
         "Asterius",
@@ -37,26 +37,26 @@
     },
     "tiktok": {
       "file": "./temp/meteo/meteo_1080x1920.mp4",
-      "title": "La météo de la France/Belgique/Suisse/Québec/Réunion du Lundi 1 Aout à 10h58 Tous les réseaux Asterius ICI: https://lyna.netlify.app/asterius #asterius #meteo",
+      "title": "La météo de la France/Belgique/Suisse/Québec/Réunion du Mardi 2 Aout à 11h00 Tous les réseaux Asterius ICI: https://lyna.netlify.app/asterius #asterius #meteo",
       "description": "La météo de la France/Belgique/Suisse du Samedi 22 Janvier à 19h49 Tous les réseaux Asterius ICI: https://lyna.ga/asterius Source: www.prevision-meteo.ch https://tai-studio.netlify.app © Tai Studio 2021/2022 #meteo #france #belgique #suisse #asterius",
       "minia": "METEO du Samedi 22 Janvier a 19h49"
     },
-    "text_twitter": "La météo de la France/Belgique/Suisse du Lundi 1 Aout à 10h58 \nTous les réseaux Asterius ICI: https://lyna.netlify.app/asterius \nhttps://tai-studio.netlify.app\n© Tai Studio 2021/2022\n#asterius #meteo #france #belgique #suisse",
-    "text_instagram": "La météo de la France/Belgique/Suisse du Lundi 1 Aout à 10h58 \nTous les réseaux Asterius ICI: https://lyna.netlify.app/asterius \nhttps://tai-studio.netlify.app\n© Tai Studio 2021/2022\n#asterius #meteo #france #belgique #suisse",
-    "text_discord": "La météo de la France/Belgique/Suisse du Lundi 1 Aout à 10h58",
+    "text_twitter": "La météo de la France/Belgique/Suisse du Mardi 2 Aout à 11h00 \nTous les réseaux Asterius ICI: https://lyna.netlify.app/asterius \nhttps://tai-studio.netlify.app\n© Tai Studio 2021/2022\n#asterius #meteo #france #belgique #suisse",
+    "text_instagram": "La météo de la France/Belgique/Suisse du Mardi 2 Aout à 11h00 \nTous les réseaux Asterius ICI: https://lyna.netlify.app/asterius \nhttps://tai-studio.netlify.app\n© Tai Studio 2021/2022\n#asterius #meteo #france #belgique #suisse",
+    "text_discord": "La météo de la France/Belgique/Suisse du Mardi 2 Aout à 11h00",
     "type": "meteo"
   },
-  "text": "La météo de la France/Belgique/Suisse du Lundi 1 Aout à 10h58",
+  "text": "La météo de la France/Belgique/Suisse du Mardi 2 Aout à 11h00",
   "France": {
-    "Sunset": "21:31",
-    "Sunrise": "06:22"
+    "Sunset": "21:30",
+    "Sunrise": "06:23"
   },
   "Belgique": {
-    "Sunset": "21:30",
-    "Sunrise": "06:07"
+    "Sunset": "21:29",
+    "Sunrise": "06:08"
   },
   "Suisse": {
-    "Sunset": "21:03",
-    "Sunrise": "05:41"
+    "Sunset": "21:00",
+    "Sunrise": "06:03"
   }
 }
